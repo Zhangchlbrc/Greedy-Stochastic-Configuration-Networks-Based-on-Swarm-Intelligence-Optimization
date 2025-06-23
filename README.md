@@ -6,7 +6,6 @@ If this aligns with your research interests, please feel free to cite our founda
 
 
 @article{ Greedy deep stochastic configuration networks ensemble with boosting negative correlation learning,
-  author = {Zhang Chenglong and Wang Yang and David Zhang},
   title = {Greedy deep stochastic configuration networks ensemble with boosting negative correlation learning},
   journal = {INFORMATION SCIENCES},
   year = {2024},
@@ -16,7 +15,6 @@ If this aligns with your research interests, please feel free to cite our founda
 }
 
 @article{ Deep Ensemble Stochastic Configuration Network via Graph Intuitionistic Fuzzy for Depression Recognition,
-  author = {Zhang Chenglong and Cheng Dawei and Jiankai Xue and Feng Wu and David Zhang},
   title = {Deep Ensemble Stochastic Configuration Network via Graph Intuitionistic Fuzzy for Depression Recognition},
   journal = {IEEE TRANSACTIONS ON FUZZY SYSTEMS},
   year = {2025},
@@ -27,7 +25,6 @@ If this aligns with your research interests, please feel free to cite our founda
 
 
 @article{ Greedy stochastic configuration networks for ill-posed problems,
-  author = {Zhou Tao and Wang Yang and Guanci Yang and Zhang Chenglong and Jiahua Wang},
   title = {Greedy stochastic configuration networks for ill-posed problems},
   journal = {KNOWLEDGE-BASED SYSTEMS},
   year = {2023},
@@ -39,7 +36,6 @@ If this aligns with your research interests, please feel free to cite our founda
 
 
 @article{ MOSSA: An Efficient Swarm Intelligent Algorithm to Solve Global Optimization and Carbon Fiber Drawing Process Problems,
-  author = {Jiankai Xue and Zhang Chenglong and Wang Muming and Xuezhe Dong},
   title = {MOSSA: An Efficient Swarm Intelligent Algorithm to Solve Global Optimization and Carbon Fiber Drawing Process Problems},
   journal = {IEEE INTERNET OF THINGS JOURNAL},
   year = {2025},
